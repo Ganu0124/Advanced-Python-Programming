@@ -6,7 +6,25 @@ Advanced Python Programming course repository with Python concepts, loops, patte
 
 "What is internet?"
         ↓
+   Semantic cache1st "What is the Internet?"
+        ↓
+   LLM called
+
+"What is internet?"
+        ↓
    Semantic cache
+        ↓
+   SAME ANSWER
+        ↓
+   LLM NOT called
+
+"Define the Internet."
+        ↓
+   Semantic cache
+        ↓
+   SAME ANSWER
+        ↓
+   LLM NOT called
         ↓
    SAME ANSWER
         ↓
