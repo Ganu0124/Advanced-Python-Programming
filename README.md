@@ -1,4 +1,4 @@
-<div align="center">
+ganuganuganu<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Advanced%20Python%20Programming&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Unlocking%20the%20power,%20elegance,%20and%20performance%20of%20Python&descSize=16&descAlignY=62" width="100%"/>
 
