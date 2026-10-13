@@ -51,3 +51,6 @@ cd Advanced-Python-Programming
 
 # 3. Run any notebook or script
 python filename.py
+
+Author
+Ganesh M
