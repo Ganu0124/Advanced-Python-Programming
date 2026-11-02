@@ -1,8 +1,6 @@
 ganu ganu ganu ababuheb
 hdhdhsbsh
 hdudjd
-hehe
-hdhdh
 
 
 <div align="center">
